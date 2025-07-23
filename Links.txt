@@ -1,0 +1,7 @@
+Course Link: https://www.youtube.com/watch?v=EerdGm-ehJQ
+
+Links for each lesson: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjhLRlVicjI1d0NXbm5uc3NlSGYyQ0lka1AxUXxBQ3Jtc0tsaHhHamFVemZPQVdLYi04cWZDMWVVaGxfcHFSRXdUc3dvREk1SW8yUm43ZVR4UjM4Zm10MnNrb3k0STFab0YyWVVpeG5aS25IQWpKcFYwWXVwcVA3YVM4djdJakVnaUZuRGxJdkNocnZzWEZOX0l2OA&q=https%3A%2F%2Fgithub.com%2FSuperSimpleDev%2Fjavascript-course%2Ftree%2Fmain%2F3-links.md&v=EerdGm-ehJQ
+
+Exercise solutions: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa242YWRIQ2I5LXBrSkdkQlNkVXIwM202Um4yQXxBQ3Jtc0tuTENObDU2d1NSVzI3RnJkb2FlakdWelNXb29FMDVmekdSM0ZaWEF2RmtzVENHU3VuTnRJVlgyQ3lNZE5tV1Ixcjl5aDJYbHo0Y0NBSUFRaEllajh6dDMwRGtqQlRtSG8xUkRhRlFKc0ptZWxuMk1QZw&q=https%3A%2F%2Fgithub.com%2FSuperSimpleDev%2Fjavascript-course%2Ftree%2Fmain%2F1-exercise-solutions&v=EerdGm-ehJQ
+
+Copy of the code: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbW0zQ1NDNjVDOG1JTW1mcVBHYjRzRTRaTF9Dd3xBQ3Jtc0tsb0JtTkFpWnRmMWpVb0dyYXhxU2lmSEJSeXNXU2RFcU9kUjJIcXAteFRHa2hrcVEzUE5aMW9SYURDa1ZsOEhKRDZnQmtISXJEYmJqeXVlRFYwMjB0OTVETUN2ZHhKR0Z4MngydUhEWXE4V2R3Yko5Zw&q=https%3A%2F%2Fgithub.com%2FSuperSimpleDev%2Fjavascript-course%2Ftree%2Fmain%2F2-copy-of-code&v=EerdGm-ehJQ

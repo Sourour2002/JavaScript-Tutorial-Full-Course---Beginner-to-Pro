@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Practice Ground</title>
+    <link rel="stylesheet" href="styles/Checkpoint1.css">
+  </head>
+
+  <body>
+    <p>Youtube Subscribe Button</p>
+    <button onclick="
+    subscribe();
+    " class="js-subscribe-button subscribe-button">Subscribe</button>
+
+    <p class="title">Rock Paper Scissors</p>
+    <button class="move-button js-rock-button">
+      <img src="assets/rock-emoji.png" alt="Rock" class="move-icon">
+    </button>
+
+    <button class="move-button js-paper-button">
+      <img src="assets/paper-emoji.png" alt="Paper" class="move-icon">
+    </button>
+
+    <button class="move-button js-scissors-button">
+      <img src="assets/scissors-emoji.png" alt="Scissors" class="move-icon">
+    </button>
+
+    <p class="js-result result"></p>
+    <p class="js-moves"></p>
+    <p class="js-score score"></p>
+
+    <button class="reset-score-button js-rest-score-button">Reset Score</button>
+    <button class="autoplay-button js-autoplay-button">Auto Play (Stopped)</button>
+
+    <p>Amazon Shipping Calculator</p>
+    <input placeholder="Cost of order" class="js-cost-input cost-input" onkeydown="handleCostKeydown(event);">
+    <button onclick="calculateTotal();" class="calculate-button">Calculate</button>
+    <p class="js-total-cost"></p>
+
+    <script src="scripts/Checkpoint1.js"></script>
+  </body>
+</html>
